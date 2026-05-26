@@ -1,5 +1,5 @@
 # Development
-This project was developed as a group project by 6 engineers, combining hardware, software, networking, PCB design, and system integration.
+This project was developed as a group project by 6 engineerings students, combining hardware, software, networking, PCB design, and system integration.
 
 # Smart Home Alarm
 
