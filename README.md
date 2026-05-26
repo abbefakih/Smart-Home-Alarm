@@ -190,4 +190,4 @@ It shows:
 ![Hardware Status](images/webb6.png)
 
 Development
-This project was developed as a group project by engineerings students, combining hardware, software, networking, PCB design, and system integration.
+This project was developed as a group project by engineerings students at KTH, combining hardware, software, networking, PCB design, and system integration.
