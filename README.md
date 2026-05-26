@@ -1,6 +1,6 @@
 # Smart Home Alarm
 
-A local smart home alarm built with **Raspberry Pi Zero WH**, featuring **PIR motion detection**, **LED and buzzer alarm feedback**, **Zigbee/MQTT door monitoring**, **camera support**, a **web dashboard**, and **custom PCB design**.
+A local smart home alarm built with Raspberry Pi Zero WH, featuring PIR motion detection, LED and buzzer alarm feedback, Zigbee/MQTT door monitoring, camera support, a web dashboard and custom PCB design.
 
 ---
 
