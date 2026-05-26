@@ -1,6 +1,3 @@
-# Development
-This project was developed as a group project by 6 engineerings students, combining hardware, software, networking, PCB design, and system integration.
-
 # Smart Home Alarm
 
 A local smart home alarm built with Raspberry Pi Zero WH, featuring PIR motion detection, LED and buzzer alarm feedback, Zigbee/MQTT door monitoring, camera support, a web dashboard and custom PCB design.
@@ -191,3 +188,6 @@ It shows:
 
 ### Hardware status section
 ![Hardware Status](images/webb6.png)
+
+Development
+This project was developed as a group project by engineerings students, combining hardware, software, networking, PCB design, and system integration.
