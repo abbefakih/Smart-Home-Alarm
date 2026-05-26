@@ -192,3 +192,6 @@ It shows:
 # Development
 
 This project was developed as a group project, combining hardware, software, networking, PCB design, and system integration.
+
+# Project Scope
+The system was designed as a local smart home alarm prototype with a focus on practical testing, modular design, and local monitoring without cloud services.
