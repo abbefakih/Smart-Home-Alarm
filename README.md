@@ -8,9 +8,9 @@ A local smart home alarm built with Raspberry Pi Zero WH, featuring PIR motion d
 This project was developed as a group project in Electrical Engineering.
 
 Contributors:
-[neez11]
-[abbefakih]
-[MarcusAtaseven]
+- [neez11]
+- [abbefakih]
+- [MarcusAtaseven]
 
 ---
 
