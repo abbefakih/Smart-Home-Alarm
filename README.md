@@ -4,6 +4,16 @@ A local smart home alarm built with Raspberry Pi Zero WH, featuring PIR motion d
 
 ---
 
+# Development
+This project was developed as a group project in Electrical Engineering.
+
+Contributors:
+[neez11]
+[abbefakih]
+[MarcusAtaseven]
+
+---
+
 ## Overview
 
 This project is a smart home alarm prototype designed to run **locally without cloud services**.  
@@ -188,10 +198,6 @@ It shows:
 
 ### Hardware status section
 ![Hardware Status](images/webb6.png)
-
-# Development
-
-This project was developed as a group project, combining hardware, software, networking, PCB design, and system integration.
 
 # Project Scope
 The system was designed as a local smart home alarm prototype with a focus on practical testing, modular design, and local monitoring without cloud services.
